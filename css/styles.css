@@ -27,8 +27,14 @@ h3 {
 
 p {
   line-height: 2;
-  text-indent: 350px;
+
   text-align: left;
+}
+
+.randomtext
+{
+  margin: auto;
+  width: 50%;
 }
 
 hr {
@@ -59,12 +65,14 @@ a:hover {
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
+
 .tableheight
 {
   height: 50px;
   border: 1px solid black;
   text-align: Center;
 }
+
 .experienceskills
 {
   margin-left: auto;
@@ -73,7 +81,7 @@ a:hover {
   border-collapse: collapse;
   padding: 20px;
   width: 50%;
-  text-align: center;
+  text-align: middle;
 }
 .ulclass
 {
@@ -124,7 +132,7 @@ a:hover {
 }
 
 .intro {
-  width: 30%;
+  width: 40%;
   margin: auto;
 }
 
