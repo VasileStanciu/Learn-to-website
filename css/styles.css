@@ -27,6 +27,8 @@ h3 {
 
 p {
   line-height: 2;
+  text-indent: 350px;
+  text-align: left;
 }
 
 hr {
@@ -61,7 +63,7 @@ a:hover {
 {
   height: 50px;
   border: 1px solid black;
-  text-align: center;
+  text-align: Center;
 }
 .experienceskills
 {
